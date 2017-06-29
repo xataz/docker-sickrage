@@ -1,5 +1,9 @@
 ![Sickrage](https://sickrage.github.io/images/logo.png)
 
+[![Build Status](https://drone.xataz.net/api/badges/xataz/docker-sickrage/status.svg)](https://drone.xataz.net/xataz/docker-sickrage)
+[![](https://images.microbadger.com/badges/image/xataz/sickrage.svg)](https://microbadger.com/images/xataz/sickrage "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/xataz/sickrage.svg)](https://microbadger.com/images/xataz/sickrage "Get your own version badge on microbadger.com")
+
 > This image is build and push with [drone.io](https://github.com/drone/drone), a circle-ci like self-hosted.
 > If you don't trust, you can build yourself.
 
