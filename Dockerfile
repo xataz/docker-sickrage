@@ -3,7 +3,7 @@ FROM xataz/alpine:3.7
 LABEL description="sickrage based on alpine" \
       tags="latest" \
       maintainer="xataz <https://github.com/xataz>" \
-      build_ver="2018012201"
+      build_ver="2018020501"
 
 ARG MEDIAINFO_VER=0.7.99
 ARG LIBZEN_VER=0.4.31
