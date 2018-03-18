@@ -3,8 +3,8 @@ FROM xataz/alpine:3.7
 LABEL description="sickrage based on alpine" \
       tags="latest" \
       maintainer="xataz <https://github.com/xataz>" \
-      build_ver="201803130500" \
-      commit="53e6cc50c086757c31fc518b550d7681c61649e6"
+      build_ver="201803180500" \
+      commit="1981e70388b85e873710028b0b519d2251f8e623"
 
 ENV WEBROOT="/" \
     UID="991" \
