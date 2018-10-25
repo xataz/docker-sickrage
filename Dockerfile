@@ -19,7 +19,7 @@ RUN export BUILD_DEPS="py2-pip" \
                 libmediainfo \
                 mediainfo \
                 ${BUILD_DEPS} \
-    && git clone https://github.com/SickRage/SickRage.git /SickRage \
+    && git clone https://github.com/SickChill/SickChill.git /SickRage \
     && apk del ${BUILD_DEPS} \
     && rm -rf /var/cache/apk/* ~/.pip/cache/*
 
